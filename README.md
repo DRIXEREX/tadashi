@@ -47,4 +47,4 @@ Ensuite, tous les modules seront installer. Pour executer le bot veuillez faire 
 node .
 ```
 
-Readme Powered by Nathoune
+Readme Powered by Nathoune#3630
